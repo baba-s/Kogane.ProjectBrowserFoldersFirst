@@ -1,7 +1,7 @@
 {
-  "name": "com.baba-s.uni-project-view-extension-for-mac",
-  "displayName": "UniProjectViewExtensionForMac",
-  "version": "1.0.0",
-  "unity": "2019.2",
-  "author": "baba-s"
+    "name": "com.baba-s.kogane-project-browser-folders-first",
+    "displayName": "Kogane Project Browser Folders First",
+    "version": "1.0.0",
+    "unity": "2022.1",
+    "author": "baba-s"
 }
